@@ -1,6 +1,7 @@
 # Djeral Abdel Ali
 
-![MicrosoftTeams-image](https://user-images.githubusercontent.com/112128079/219426352-e8bf4358-510f-4c23-bf04-7069c56bd629.png)
+
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/112128079/219427885-030ec7b1-8027-402a-ac65-c3bfaad21fd7.png)
 Photo prise devant l'oeuvre Bilateral Time Slicer de Rafael Lozano-Hemmer, BIAN, janvier 2023
 
 
