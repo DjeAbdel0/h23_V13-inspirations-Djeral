@@ -5,3 +5,13 @@ Résonances est une installation interactive réalisée par Louis-Philippe Ronde
 Sur le site web de Louis-Philippe Rondeau, l'artiste cite: "Résonances est une métaphore sur le temps qui défile. Au lieu d'exprimer la linéarité du temps, cette installation interactive évoque la manière dot les gestes du présent se superposent à ceux du passé. Tel un écho visuel et sonore, elle représente nos actions antérieures qui resurgissent, amplifiant le présent et devenant à leur tour passé, telle une perpétuelle mise en abyme temporelle."
 
 Pour résumé, les intentions de l'artiste étaient de faire comprendre que le passé ne disparait jamais. Il est toujours stocké quelque part. Soit dans nos mémoires, nos histoires, etc. Dans ce cas-ci, le passé est rendu numérique. Nos pas qui ont traversé le centre de l'oeuvre font déja parti du passé, mais ils restent toujours dans le présent, simplement dans une autre forme. 
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+|Nom de l'exposition ou de l'événement  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
