@@ -47,5 +47,6 @@ ________________________________________________________________________________
 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement 
 - Sincérement, je n'ai pas réellement trouvé de points que je n'aime pas sauf peut-être je pense que j'ajouterais des plus de caméras pour avoir d'autre point de vue, par exemple, une caméra en haut de la structure qui prendrais des photos en plongée ou sinon une caméra dans le sol qui prendrais des photos en contre-plongée
 
+_____________________________________________________________________________________________________________________________________________________
 Références
  _____________________________________________________________________________________________________________________________________________________
