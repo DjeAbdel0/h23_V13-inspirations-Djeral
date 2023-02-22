@@ -21,20 +21,25 @@ Pour résumé, les intentions de l'artiste étaient de faire comprendre que le p
 
 Mise en espace 	Vue d'ensemble de la pièce + croquis de la mise en espace (plan ou élévation selon ce qui facilite la compréhension, avec dimensions)
  _____________________________________________________________________________________________________________________________________________________
+ 
+ 
  Composantes et techniques
   _____________________________________________________________________________________________________________________________________________________
+  
   
   Éléments nécessaires à la mise en exposition   Éléments de mise en exposition (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)
    _____________________________________________________________________________________________________________________________________________________
    
+   
    Expérience vécue	Posture du visiteur ou gestes de l'interacteur 🎥 possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
   _____________________________________________________________________________________________________________________________________________________
-    ❤️ Ce qui vous a plu, vous a donné des idées
     
+    
+❤️ Ce qui vous a plu, vous a donné des idées
   _____________________________________________________________________________________________________________________________________________________
      
-     🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
-  _____________________________________________________________________________________________________________________________________________________
+     
+🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement _____________________________________________________________________________________________________________________________________________________
 
 Références
  _____________________________________________________________________________________________________________________________________________________
