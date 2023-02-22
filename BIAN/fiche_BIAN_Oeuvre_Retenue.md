@@ -44,14 +44,14 @@ ________________________________________________________________________________
   - Autres composantes électroniques
 
    _____________________________________________________________________________________________________________________________________________________
- *Éléments nécessaires à la mise en exposition*   Éléments de mise en exposition (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)
+ *Éléments nécessaires à la mise en exposition*  
    _____________________________________________________________________________________________________________________________________________________
    ![oeuvre_camera_01](https://user-images.githubusercontent.com/112128079/220780875-6fc65d2a-4d2a-42bc-9410-dc1d3d7bb321.png) 
    _____________________________________________________________________________________________________________________________________________________
    
-   *Expérience vécue*	Posture du visiteur ou gestes de l'interacteur 🎥 possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
+   *Expérience vécue*	
   _____________________________________________________________________________________________________________________________________________________
-  Le modéle et la forme de l'oeuvre est assez unique, mais je trouve que tout cela donne un côté intuitif et assez marrant. Elle nous donne "confiance". Le seul effort que l'on doit fournir est de passez au centre de la structure. En un instant de seconde, notre image est projetté sur l'écran. Cette image peut varier selon l'angle de notre passage devant la caméra ou bien notre temps de passage. (plus on passe vite, plus la photo sera peu éttirés, et au contraitre, plus on prend du temps debant la camera, plus notre image sera éttirée.
+  Le modéle et la forme de l'oeuvre est assez unique, mais je trouve que tout cela donne un côté intuitif et assez marrant. Elle nous donne "confiance". Le seul effort que l'on doit fournir est de passez au centre de la structure. En un instant de seconde, notre image est projetté sur l'écran. Cette image peut varier selon l'angle de notre passage devant la caméra ou bien notre temps de passage. (plus on passe vite, moins la photo sera étirés, et au contraitre, plus on prend du temps devant la camera, plus notre image sera étirée.
   _____________________________________________________________________________________________________________________________________________________
     
 *❤️ Ce qui vous a plu, vous a donné des idées*
