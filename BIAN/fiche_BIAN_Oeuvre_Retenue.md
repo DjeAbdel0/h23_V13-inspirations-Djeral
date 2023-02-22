@@ -19,7 +19,7 @@ Pour résumé, les intentions de l'artiste étaient de faire comprendre que le p
 | Année de réalisation  | 2021  |
 
 _____________________________________________________________________________________________________________________________________________________
-Mise en espace 	
+ *Mise en espace*	
  _____________________________________________________________________________________________________________________________________________________
  
  L'oeuvre se situe dans un ancien chantier naval qui a été rénové et qui acceuille maintenant des expositions en tout genre. L'endroit fut rebatisé "Arsenal art contemporain". Tout fut rénové et modernisé sauf quelques poutres par-ci et par-là et le plancher qui n'a pas été touché. La pièce dans laquelle se trouve l'oeuvre est vraiment grande et large. Je dirais que l'oeuvre a un espace d'environ 8m par 8m juste pour elle. On peut dire que son grand écran illumine toute la salle. il y a un espace d'environ 2m entre la structure et l'écran.
@@ -29,7 +29,7 @@ Mise en espace
  
  _____________________________________________________________________________________________________________________________________________________
  
- Composantes et techniques 
+ *Composantes et techniques*
   _____________________________________________________________________________________________________________________________________________________
   - Une caméra pour capter les images
   - Des haut-parleurs pour projetter les sons émis à chaque traversée
@@ -40,15 +40,15 @@ Mise en espace
   - Autres composantes électroniques
 
   _____________________________________________________________________________________________________________________________________________________
-  Éléments nécessaires à la mise en exposition   Éléments de mise en exposition (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)
+ *Éléments nécessaires à la mise en exposition*   Éléments de mise en exposition (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)
    _____________________________________________________________________________________________________________________________________________________
    
    
-   Expérience vécue	Posture du visiteur ou gestes de l'interacteur 🎥 possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
+   *Expérience vécue*	Posture du visiteur ou gestes de l'interacteur 🎥 possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
   _____________________________________________________________________________________________________________________________________________________
     
     
-❤️ Ce qui vous a plu, vous a donné des idées
+*❤️ Ce qui vous a plu, vous a donné des idées*
   _____________________________________________________________________________________________________________________________________________________
   - Ce que j'ai le plus apprécié de l'oeuvre, c'est le fait que l'artiste a réussi à transformer une idée "simple" en une oeuvre intéractive qui est dynamique, mais surtout tout public. Le concept est assez simple à comprendre; passez devant la caméra et votre image sera diffusé sur un écran, mais la programation doit être vraiment complexe.
  
@@ -57,7 +57,7 @@ Mise en espace
   
 _____________________________________________________________________________________________________________________________________________________
      
-🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement 
+🤔 *Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement*
 _____________________________________________________________________________________________________________________________________________________
 
 - Sincérement, je n'ai pas réellement trouvé de points que je n'aime pas sauf peut-être je pense que j'ajouterais des plus de caméras pour avoir d'autre point de vue, par exemple, une caméra en haut de la structure qui prendrais des photos en plongée ou sinon une caméra dans le sol qui prendrais des photos en contre-plongée
