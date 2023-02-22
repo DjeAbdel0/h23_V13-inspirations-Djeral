@@ -1,1 +1,1 @@
-Contient les photos renommées et redimensionnéeés des croquis qui seront intégrés à la fiche.
+Contient un croquis que j'ai réaliser sur une oeuvre (Résonace)
