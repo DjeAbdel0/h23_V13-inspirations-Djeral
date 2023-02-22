@@ -22,8 +22,14 @@ Pour résumé, les intentions de l'artiste étaient de faire comprendre que le p
 Mise en espace 	Vue d'ensemble de la pièce + croquis de la mise en espace (plan ou élévation selon ce qui facilite la compréhension, avec dimensions)
  _____________________________________________________________________________________________________________________________________________________
  
+ L'oeuvre se situe dans un ancien chantier naval qui a été rénové et qui acceuille maintenant des expositions en tout genre. L'endroit fut rebatisé "Arsenal art contemporain". Tout fut rénové et modernisé sauf quelques poutres par-ci et par-là et le plancher qui n'a pas été touché. La pièce dans laquelle se trouve l'oeuvre est vraiment grande et large. Je dirais que l'oeuvre a un espace d'environ 8m par 8m juste pour elle. On peut dire que son grand écran illumine toute la salle. il y a un espace d'environ 2m entre la structure et l'écran.
  
- Composantes et techniques
+ Le grand prisme triangulaire (qui ressemble à une arche) est posé sur une base en bois. On remarque qu'elle est au centre de la structure. Un grand écran qui projette toutes les photos se trouve juste en face. On ne voit aucun cable, ordinateur. Ils sont tous cachés dérrière les deux grands pilliers qui se trouve les côtés de l'ècran. Le cartel quand à lui se trouve sur la droite. 
+ 
+ 
+ _____________________________________________________________________________________________________________________________________________________
+ 
+ Composantes et techniques 
   _____________________________________________________________________________________________________________________________________________________
   
   
@@ -51,4 +57,5 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________________________________
 Références
+
  _____________________________________________________________________________________________________________________________________________________
