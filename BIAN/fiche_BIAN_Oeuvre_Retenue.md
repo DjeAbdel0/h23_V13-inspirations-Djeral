@@ -18,8 +18,8 @@ Pour résumé, les intentions de l'artiste étaient de faire comprendre que le p
 |Nom de l'artiste  | Louis-Philippe Rondeau  |
 | Année de réalisation  | 2021  |
 
-
-Mise en espace 	Vue d'ensemble de la pièce + croquis de la mise en espace (plan ou élévation selon ce qui facilite la compréhension, avec dimensions)
+_____________________________________________________________________________________________________________________________________________________
+Mise en espace 	
  _____________________________________________________________________________________________________________________________________________________
  
  L'oeuvre se situe dans un ancien chantier naval qui a été rénové et qui acceuille maintenant des expositions en tout genre. L'endroit fut rebatisé "Arsenal art contemporain". Tout fut rénové et modernisé sauf quelques poutres par-ci et par-là et le plancher qui n'a pas été touché. La pièce dans laquelle se trouve l'oeuvre est vraiment grande et large. Je dirais que l'oeuvre a un espace d'environ 8m par 8m juste pour elle. On peut dire que son grand écran illumine toute la salle. il y a un espace d'environ 2m entre la structure et l'écran.
