@@ -29,7 +29,9 @@ ________________________________________________________________________________
  
  Le grand prisme triangulaire (qui ressemble à une arche) est posé sur une base en bois. On remarque qu'elle est au centre de la structure. Un grand écran qui projette toutes les photos se trouve juste en face. On ne voit aucun cable, ordinateur. Ils sont tous cachés dérrière les deux grands pilliers qui se trouve les côtés de l'ècran. Le cartel quand à lui se trouve sur la droite. 
  
- 
+ ![oeuvre_01](https://user-images.githubusercontent.com/112128079/220780863-d7b27366-891b-4259-9722-597af4c72e7c.png)
+![oeuvre_camera_01](https://user-images.githubusercontent.com/112128079/220780875-6fc65d2a-4d2a-42bc-9410-dc1d3d7bb321.png)
+![oeuvre_02](https://user-images.githubusercontent.com/112128079/220780881-db131b54-58a8-4402-bc19-668819b58deb.png)
  _____________________________________________________________________________________________________________________________________________________
  
  *Composantes et techniques*
@@ -70,8 +72,5 @@ ________________________________________________________________________________
 Références
 
  _____________________________________________________________________________________________________________________________________________________
-![oeuvre_01](https://user-images.githubusercontent.com/112128079/220780863-d7b27366-891b-4259-9722-597af4c72e7c.png)
 
-![oeuvre_camera_01](https://user-images.githubusercontent.com/112128079/220780875-6fc65d2a-4d2a-42bc-9410-dc1d3d7bb321.png)
-![oeuvre_02](https://user-images.githubusercontent.com/112128079/220780881-db131b54-58a8-4402-bc19-668819b58deb.png)
 
