@@ -1,1 +1,1 @@
-Contient les fichiers photos renommés et redimensionnés à insérer dans la fiche.
+Contient les fichiers photos redimensionnés à 500 pixels par 375 pixels dépendament de la longeur et de la largeur de chaque photo.
