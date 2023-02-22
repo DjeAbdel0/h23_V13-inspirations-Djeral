@@ -8,7 +8,8 @@ Sur le site web de Louis-Philippe Rondeau, l'artiste cite: "Résonances est une 
 Pour résumé, les intentions de l'artiste étaient de faire comprendre que le passé ne disparait jamais. Il est toujours 
 stocké quelque part. Soit dans nos mémoires, nos histoires, etc. Dans ce cas-ci, le passé est rendu numérique. Nos pas 
 qui ont traversé le centre de l'oeuvre font déja parti du passé, mais ils restent toujours dans le présent, simplement 
-dans une autre forme.  ![oeuvre_cartel_01](https://user-images.githubusercontent.com/112128079/220780872-6e541670-c3fa-4720-8019-db7ff25d8102.png)
+dans une autre forme.  
+![oeuvre_cartel_01](https://user-images.githubusercontent.com/112128079/220780872-6e541670-c3fa-4720-8019-db7ff25d8102.png)
 
 
 |Information recherchée | Détails |
@@ -85,4 +86,3 @@ ________________________________________________________________________________
 Références
  _____________________________________________________________________________________________________________________________________________________
 - Site internet d'Elektra : https://www.elektramontreal.ca/bian2022-louis-philippe-rondeau?lang=fr
-- Site internet de l'Arsenal art contemporain à Montréal https://www.arsenalcontemporary.com/mtl/fr/home
