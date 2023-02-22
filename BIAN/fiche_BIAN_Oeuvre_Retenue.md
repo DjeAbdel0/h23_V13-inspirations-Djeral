@@ -7,7 +7,7 @@ Sur le site web de Louis-Philippe Rondeau, l'artiste cite: "Résonances est une 
 
 Pour résumé, les intentions de l'artiste étaient de faire comprendre que le passé ne disparait jamais. Il est toujours stocké quelque part. Soit dans nos mémoires, nos histoires, etc. Dans ce cas-ci, le passé est rendu numérique. Nos pas qui ont traversé le centre de l'oeuvre font déja parti du passé, mais ils restent toujours dans le présent, simplement dans une autre forme. 
 
-| Information  | Second Header |
+
 | ------------- | ------------- |
 |Nom de l'exposition ou de l'événement  | Content Cell  |
 | Lieu de mise en exposition | Content Cell  |
@@ -27,13 +27,13 @@ Mise en espace
    _____________________________________________________________________________________________________________________________________________________
    
    Expérience vécue	Posture du visiteur ou gestes de l'interacteur 🎥 possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
-    _____________________________________________________________________________________________________________________________________________________
+  _____________________________________________________________________________________________________________________________________________________
     ❤️ Ce qui vous a plu, vous a donné des idées
     
-     _____________________________________________________________________________________________________________________________________________________
+  _____________________________________________________________________________________________________________________________________________________
      
      🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
-      _____________________________________________________________________________________________________________________________________________________
+  _____________________________________________________________________________________________________________________________________________________
 
 Références
  _____________________________________________________________________________________________________________________________________________________
