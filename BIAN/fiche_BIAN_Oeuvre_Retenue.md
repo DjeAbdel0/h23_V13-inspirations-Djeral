@@ -10,7 +10,7 @@ Pour résumé, les intentions de l'artiste étaient de faire comprendre que le p
 
 |Information recherchée | Détails |
 | ------------- | ------------- |
-|Nom de l'exposition ou de l'événement  | ELEKTRA |
+|Nom de l'exposition ou de l'événement  | METAMORPHOSIS, 6e Biennale d'art numérique |
 | Lieu de mise en exposition | Arsenal art contemporain (montréal)  |
 |Type d'exposition  | Temporaire  |
 | Date de la visite  | 02/02/2023  |
@@ -19,7 +19,7 @@ Pour résumé, les intentions de l'artiste étaient de faire comprendre que le p
 | Année de réalisation  | 2021  |
 
 
-Mise en espace
+Mise en espace 	Vue d'ensemble de la pièce + croquis de la mise en espace (plan ou élévation selon ce qui facilite la compréhension, avec dimensions)
  _____________________________________________________________________________________________________________________________________________________
  Composantes et techniques
   _____________________________________________________________________________________________________________________________________________________
