@@ -37,8 +37,10 @@ Mise en espace 	Vue d'ensemble de la pièce + croquis de la mise en espace (plan
     
 ❤️ Ce qui vous a plu, vous a donné des idées
   _____________________________________________________________________________________________________________________________________________________
-  Ce que j'ai le plus apprécié dans l'exposition, cela doit être l'oeuvre dans laquelle on remarque deux voitures entrer en collision pour simuler un accident. Les voitures coemmencent à se rapprocher l'une de l'autre jusqu'à, à la fin, voir les deux automobiles complétement l'une dans l'autre. Les deux automobiles sont déplacées à l'aide de railles qui avancent d'1mm par heure.
-  Je n'ai pas pu choisir cette oeuvre, car elle ne contient pas d'éléments multimédia.
+  - Ce que j'ai le plus apprécié de l'oeuvre, c'est le fait que l'artiste a réussi à transformer une idée "simple" en une oeuvre intéractive qui est dynamique, mais surtout tout public. Le concept est assez simple à comprendre; passez devant la caméra et votre image sera diffusé sur un écran, mais la programation doit être vraiment complexe.
+ 
+- Sinon, j'ai aussi apprécié une autre oeuvre dans l'exposition, c'est l'oeuvre dans laquelle on remarque deux voitures entrer en collision pour simuler un accident. Les voitures coemmencent à se rapprocher l'une de l'autre jusqu'à, à la fin, voir les deux automobiles complétement l'une dans l'autre. Les deux automobiles sont déplacées à l'aide de railles qui avancent d'1mm par heure.
+  Je n'ai pas pu choisir cette oeuvre, car elle ne contient pas d'éléments multimédia. 
      
 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement _____________________________________________________________________________________________________________________________________________________
 
