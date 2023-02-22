@@ -69,3 +69,8 @@ Références
  _____________________________________________________________________________________________________________________________________________________
  
 ![IMG_8217](https://user-images.githubusercontent.com/112128079/220720170-54c08394-c44f-46ab-ab26-71ad328ef74c.jpg)
+![IMG_8207](https://user-images.githubusercontent.com/112128079/220772537-1eca548d-8ab1-4694-b4c3-68c3ead6c907.jpg)
+![IMG_8210](https://user-images.githubusercontent.com/112128079/220772542-0b96def3-9f26-455d-b121-d3e5eb6cdc0f.jpg)
+![IMG_8213](https://user-images.githubusercontent.com/112128079/220772548-71aa9698-b2d9-4f1b-a12f-7b78d8afc46b.jpg)
+![IMG_8206](https://user-images.githubusercontent.com/112128079/220772551-6ee3788a-3d72-4b81-ba87-ba88ff714c32.jpg)
+
