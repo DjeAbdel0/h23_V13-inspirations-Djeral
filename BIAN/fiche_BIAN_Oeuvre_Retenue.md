@@ -42,6 +42,7 @@ ________________________________________________________________________________
   - Des câbles
   - Un grand écran
   - Autres composantes électroniques
+  
  ![oeuvre_camera_01](https://user-images.githubusercontent.com/112128079/220780875-6fc65d2a-4d2a-42bc-9410-dc1d3d7bb321.png) 
    _____________________________________________________________________________________________________________________________________________________
  *Éléments nécessaires à la mise en exposition*  
