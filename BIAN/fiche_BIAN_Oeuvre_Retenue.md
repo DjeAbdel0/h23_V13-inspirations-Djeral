@@ -1,4 +1,4 @@
-                                                              # RÉSONANCES 
+                                                               #RÉSONANCES 
    _____________________________________________________________________________________________________________________________________________________
 Résonances est une installation interactive réalisée par Louis-Philippe Rondeau en 2021. L'oeuvre ressemble à un grand prisme triangulaire et mesure 3,80m par 5,60m par 3m. Sa forme spéciale nous invite a passé par son centre. Lorsque vous la traversé, une caméra placé dans un angle prend une photo de vous ( ou de toute chose passant devant elle) et la diffuse sur un grand écran situé proche de l'oeuvre. Un son retentit après votre passage pour confirmer que votre photo est entrain de deffiler sur l'écran. Elle sera diffusé pendant un certain temps avant de disparaite, mais vous pouvez passez plusieurs fois et donc affiche plusieurs photos en même temps. C'est une oeuvre qui est simple d'utilisation, mais qui contient un programme complexe. (Chapeau à l'artiste!)
 
