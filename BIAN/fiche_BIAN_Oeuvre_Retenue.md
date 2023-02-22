@@ -31,8 +31,15 @@ Mise en espace
  
  Composantes et techniques 
   _____________________________________________________________________________________________________________________________________________________
-  
-  
+  - Une caméra pour capter les images
+  - Des haut-parleurs pour projetter les sons émis à chaque traversée
+  - Une base en bois
+  - Une arche en métal
+  - Des câbles
+  - Un grand écran
+  - Autres composantes électroniques
+
+  _____________________________________________________________________________________________________________________________________________________
   Éléments nécessaires à la mise en exposition   Éléments de mise en exposition (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)
    _____________________________________________________________________________________________________________________________________________________
    
