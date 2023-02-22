@@ -78,3 +78,5 @@ Références
 https://user-images.githubusercontent.com/112128079/220785274-8b0d3a63-17b3-41e6-bb10-2175733f5995.mp4
 
 https://youtube.com/shorts/URM3c-er1gE
+
+!(http://img.youtube.com/vi/IDURM3c-er1gE/0.jpg)]
