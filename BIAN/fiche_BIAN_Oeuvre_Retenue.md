@@ -9,9 +9,9 @@ Pour résumé, les intentions de l'artiste étaient de faire comprendre que le p
 | Information  | Second Header |
 | ------------- | ------------- |
 |Nom de l'exposition ou de l'événement  | Content Cell  |
-| Lieu de mise en exposition	Vous devant l'entrée de l'édifice	  | Content Cell  |
+| Lieu de mise en exposition | Content Cell  |
 |Type d'exposition  | Temporaire  |
-| Date de la visite  | Content Cell  |
+| Date de la visite  | 02/02/2022  |
 |Titre de l'oeuvre  |Résonances  |
 |Nom de l'artiste  | Louis-Philippe Rondeau  |
 | Année de réalisation  | 2021  |
