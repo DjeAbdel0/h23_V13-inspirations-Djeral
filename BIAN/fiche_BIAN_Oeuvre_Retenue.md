@@ -6,7 +6,7 @@ Sur le site web de Louis-Philippe Rondeau, l'artiste cite: "Résonances est une 
 
 Pour résumé, les intentions de l'artiste étaient de faire comprendre que le passé ne disparait jamais. Il est toujours stocké quelque part. Soit dans nos mémoires, nos histoires, etc. Dans ce cas-ci, le passé est rendu numérique. Nos pas qui ont traversé le centre de l'oeuvre font déja parti du passé, mais ils restent toujours dans le présent, simplement dans une autre forme. 
 
-| First Header  | Second Header |
+| Information  | Second Header |
 | ------------- | ------------- |
 |Nom de l'exposition ou de l'événement  | Content Cell  |
 | Content Cell  | Content Cell  |
