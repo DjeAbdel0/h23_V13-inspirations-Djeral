@@ -1,0 +1,1 @@
+Contient des photos redimensionnées 
